@@ -1,0 +1,112 @@
+[
+  {
+    "value": "hair-straightening",
+    "label": "Hair Straightening",
+    "price": 3000
+  },
+  {
+    "value": "botox",
+    "label": "Botox",
+    "price": 4000
+  },
+  {
+    "value": "keratin",
+    "label": "Keratin",
+    "price": 4000
+  },
+  {
+    "value": "light-makeup",
+    "label": "Light Makeup",
+    "price": 3999
+  },
+  {
+    "value": "bridal-makeup",
+    "label": "Bridal Makeup",
+    "price": 4999
+  },
+  {
+    "value": "wax-full",
+    "label": "Wax Full",
+    "price": 600
+  },
+  {
+    "value": "wax-half-hand",
+    "label": "Wax Half Hand",
+    "price": 200
+  },
+  {
+    "value": "wax-under-arm",
+    "label": "Wax Under Arm",
+    "price": 100
+  },
+  {
+    "value": "wax-full-legs",
+    "label": "Wax Full Legs",
+    "price": 500
+  },
+  {
+    "value": "wax-half-legs",
+    "label": "Wax Half Legs",
+    "price": 300
+  },
+  {
+    "value": "threading",
+    "label": "Threading",
+    "price": 50
+  },
+  {
+    "value": "hair-cut-basic",
+    "label": "Hair Cut Basic",
+    "price": 600
+  },
+  {
+    "value": "hair-cut-advanced",
+    "label": "Hair Cut Advanced",
+    "price": 600
+  },
+  {
+    "value": "head-massage",
+    "label": "Head Massage",
+    "price": 400
+  },
+  {
+    "value": "hair-spa",
+    "label": "Hair Spa",
+    "price": 800
+  },
+  {
+    "value": "dandruff-treatment",
+    "label": "Dandruff Treatment",
+    "price": 1500
+  },
+  {
+    "value": "hair-coloring-global",
+    "label": "Hair Coloring Global",
+    "price": 2500
+  },
+  {
+    "value": "hair-highlights",
+    "label": "Hair Highlights (per streak)",
+    "price": 200
+  },
+  {
+    "value": "facial",
+    "label": "Facial",
+    "price": 1000
+  },
+  {
+    "value": "cleanup",
+    "label": "Cleanup",
+    "price": 500
+  },
+  {
+    "value": "dtan-face-neck",
+    "label": "DTan Face & Neck",
+    "price": 300
+  },
+  {
+    "value": "bleach-face-neck",
+    "label": "Bleach Face & Neck",
+    "price": 300
+  }
+]
